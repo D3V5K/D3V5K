@@ -25,7 +25,7 @@
 
 ---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=✨%20Crafting%20Digital%20Experiences%20✨&fontSize=30&fontAlignY=35&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=✨%About%Me%20✨&fontSize=30&fontAlignY=35&animation=fadeIn" width="100%"/>
 </div>
 ### 🚀 About Me
 
