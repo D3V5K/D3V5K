@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
   <br/>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
+ <div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35%"/>
+</div>
 </div>
 
 <h1 align="center">👋 Hi, I'm Oussama Nyqech</h1>
@@ -26,10 +28,8 @@
 ---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=✨%20About%20Me%20✨&fontSize=60&fontAlignY=40&animation=fadeIn" width="100%"/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35%"/>
-</div>
-### 🚀 About Me
+
+
 
 I'm a passionate **MERN Stack Developer** with a keen eye for design and a love for building efficient, user-friendly web applications. With expertise spanning both frontend and backend technologies, I enjoy turning complex problems into simple, elegant solutions.
 
