@@ -12,10 +12,7 @@
 <h3 align="center">Full Stack MERN Developer | Crafting Scalable Web Solutions</h3>
 
 
-  <img src="https://komarev.com/ghpvc/?username=OussamaNyqech&style=flat-square&color=blue" alt="Profile Views"/>
-  <a href="https://github.com/OussamaNyqech">
-    <img src="https://img.shields.io/github/followers/OussamaNyqech?label=Follow&style=social" alt="GitHub Followers"/>
-  </a>
+
 </div>
 
 
