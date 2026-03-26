@@ -19,6 +19,12 @@
 </div>
 
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=OussamaNyqech&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/OussamaNyqech?style=for-the-badge&logo=github&color=0e75b6&label=FOLLOWERS" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/OussamaNyqech?style=for-the-badge&logo=github&color=0e75b6&label=STARS" alt="GitHub Stars"/>
+</div>
+
 
 ---
 
