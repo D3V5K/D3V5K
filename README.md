@@ -24,7 +24,9 @@
 
 
 ---
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=✨%20Crafting%20Digital%20Experiences%20✨&fontSize=30&fontAlignY=35&animation=fadeIn" width="100%"/>
+</div>
 ### 🚀 About Me
 
 I'm a passionate **MERN Stack Developer** with a keen eye for design and a love for building efficient, user-friendly web applications. With expertise spanning both frontend and backend technologies, I enjoy turning complex problems into simple, elegant solutions.
