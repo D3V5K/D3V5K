@@ -24,8 +24,10 @@
 
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=✨%20About%20Me%20✨&fontSize=60&fontAlignY=40&animation=fadeIn" width="100%"/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=✨%About%Me%20✨&fontSize=30&fontAlignY=35&animation=fadeIn" width="100%"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35%"/>
 </div>
 ### 🚀 About Me
 
