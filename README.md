@@ -8,10 +8,10 @@
 
 <h1 align="center">👋 Hi, I'm Oussama Nyqech</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Developer;UI%2FUX+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Python+Developer" alt="Typing Animation" />
 </div>
 <div align="center">
-<h3 align="center">Full Stack MERN Developer | Crafting Scalable Web Solutions</h3>
+<h3 align="center">Full Stack Developer | Crafting Scalable Web Solutions</h3>
 
 
 
@@ -31,11 +31,11 @@
 
 
 
-I'm a passionate **MERN Stack Developer** with a keen eye for design and a love for building efficient, user-friendly web applications. With expertise spanning both frontend and backend technologies, I enjoy turning complex problems into simple, elegant solutions.
+I'm a passionate **Full Stack Developer** with a keen eye for design and a love for building efficient, user-friendly web applications. With expertise spanning both frontend and backend technologies, I enjoy turning complex problems into simple, elegant solutions.
 
 - 🔭 Currently exploring **advanced backend architectures** and **cloud deployment**
-- 🌱 Always learning: diving deeper into **Next.js** and **TypeScript**
-- 💬 Ask me about **MERN Stack**, **UI/UX Design**, or **Open Source**
+- 🌱 Always learning: diving deeper into **Next.js**, **TypeScript**, and **Python**
+- 💬 Ask me about **Full Stack Development**, **UI/UX Design**, or **Open Source**
 - 🎨 Creative side: **Photoshop** enthusiast and design lover
 - ⚡ Fun fact: I debug with music and believe clean code is an art form
 
@@ -53,6 +53,7 @@ I'm a passionate **MERN Stack Developer** with a keen eye for design and a love 
 #### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
