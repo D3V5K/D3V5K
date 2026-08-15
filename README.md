@@ -1,16 +1,22 @@
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
   <br/>
+ <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35%"/>
+</div>
 </div>
 
 <h1 align="center">👋 Hi, I'm Oussama Nyqech</h1>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Python+Developer" alt="Typing Animation" />
 </div>
-
+<div align="center">
 <h3 align="center">Full Stack Developer | Crafting Scalable Web Solutions</h3>
+
+
+
+</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=OussamaNyqech&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -18,9 +24,12 @@
   <img src="https://img.shields.io/github/stars/OussamaNyqech?style=for-the-badge&logo=github&color=0e75b6&label=STARS" alt="GitHub Stars"/>
 </div>
 
----
 
+---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=✨%20About%20Me%20✨&fontSize=60&fontAlignY=40&animation=fadeIn" width="100%"/>
+
+
+
 
 I'm a passionate **Full Stack Developer** with a keen eye for design and a love for building efficient, user-friendly web applications. With expertise spanning both frontend and backend technologies, I enjoy turning complex problems into simple, elegant solutions.
 
@@ -29,14 +38,6 @@ I'm a passionate **Full Stack Developer** with a keen eye for design and a love 
 - 💬 Ask me about **Full Stack Development**, **UI/UX Design**, or **Open Source**
 - 🎨 Creative side: **Photoshop** enthusiast and design lover
 - ⚡ Fun fact: I debug with music and believe clean code is an art form
-
-<details>
-<summary>💡 A bit about how I work</summary>
-<br/>
-
-I like keeping both sides of the stack in balance — solid, maintainable backend logic paired with interfaces that actually feel good to use. Design instincts from Photoshop influence how I structure UI in code, and writing clean code is something I treat as seriously as making it work.
-
-</details>
 
 ---
 
@@ -65,15 +66,6 @@ I like keeping both sides of the stack in balance — solid, maintainable backen
 
 ---
 
-### 🌱 Currently Learning
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-Expanding beyond JavaScript into **TypeScript**, going deeper with **Next.js**, and continuing to sharpen my **Python** skills — while exploring backend architecture and cloud deployment along the way.
-
----
-
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -83,10 +75,6 @@ Expanding beyond JavaScript into **TypeScript**, going deeper with **Next.js**, 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaNyqech&theme=radical" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OussamaNyqech&theme=redical" alt="Contribution Graph" width="95%"/>
 </div>
 
 ---
