@@ -1,22 +1,14 @@
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
-  <br/>
- <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35%"/>
-</div>
 </div>
 
-<h1 align="center">👋 Hi, I'm Oussama Nyqech</h1>
+<h1 align="center">Hi, I'm Oussama Nyqech 👋</h1>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Python+Developer" alt="Typing Animation" />
-</div>
-<div align="center">
-<h3 align="center">Full Stack Developer | Crafting Scalable Web Solutions</h3>
-
-
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Python+Developer" alt="Typing Animation" />
 </div>
 
+<h3 align="center">Full Stack Developer · Crafting Scalable Web Solutions</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=OussamaNyqech&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -24,49 +16,59 @@
   <img src="https://img.shields.io/github/stars/OussamaNyqech?style=for-the-badge&logo=github&color=0e75b6&label=STARS" alt="GitHub Stars"/>
 </div>
 
-
 ---
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=✨%20About%20Me%20✨&fontSize=60&fontAlignY=40&animation=fadeIn" width="100%"/>
 
+## About Me
 
+I'm a Full Stack Developer with a keen eye for design and a genuine interest in building efficient, user-friendly web applications. My work spans both frontend and backend technologies, and I enjoy turning complex problems into simple, well-structured solutions.
 
-
-I'm a passionate **Full Stack Developer** with a keen eye for design and a love for building efficient, user-friendly web applications. With expertise spanning both frontend and backend technologies, I enjoy turning complex problems into simple, elegant solutions.
-
-- 🔭 Currently exploring **advanced backend architectures** and **cloud deployment**
-- 🌱 Always learning: diving deeper into **Next.js**, **TypeScript**, and **Python**
-- 💬 Ask me about **Full Stack Development**, **UI/UX Design**, or **Open Source**
-- 🎨 Creative side: **Photoshop** enthusiast and design lover
-- ⚡ Fun fact: I debug with music and believe clean code is an art form
+- 🔭 Currently exploring advanced backend architectures and cloud deployment
+- 🌱 Deepening my skills in Next.js, TypeScript, and Python
+- 💬 Happy to talk about Full Stack Development, UI/UX Design, or Open Source
+- 🎨 Also design-minded — I work with Photoshop and enjoy the creative side of building products
+- ⚡ I debug with music playing and believe clean code is worth the extra care
 
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
 
-#### Frontend
+**Frontend**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### Backend
+**Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### Databases
+**Database**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Design & Tools
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+**Tools & Design**
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ---
 
-### 📊 GitHub Analytics
+## Currently Learning
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+I'm building on my JavaScript foundation by learning **TypeScript**, along with **Next.js**, and continuing to grow my **Python** skills. I'm also exploring advanced backend architecture and cloud deployment as I work toward stronger, more scalable applications.
+
+---
+
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OussamaNyqech&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
@@ -79,7 +81,7 @@ I'm a passionate **Full Stack Developer** with a keen eye for design and a love 
 
 ---
 
-### 📫 Let's Connect
+## Connect With Me
 
 <div align="center">
   <a href="https://github.com/OussamaNyqech">
@@ -93,12 +95,6 @@ I'm a passionate **Full Stack Developer** with a keen eye for design and a love 
   </a>
 </div>
 
----
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="8%" alt="Coding Mode"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="8%" alt="It Works!"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="8%" alt="Magic"/>
-  <br/>
   <i>Code. Design. Deploy. Repeat.</i>
 </div>
