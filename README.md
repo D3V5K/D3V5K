@@ -1,104 +1,56 @@
-<div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
-  <br/>
- <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35%"/>
-</div>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Oussama!&animation=fadeIn&type=waving&color=gradient&height=150&fontSize=40"/>
+</p>
 
-<h1 align="center">👋 Hi, I'm Oussama Nyqech</h1>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Python+Developer" alt="Typing Animation" />
-</div>
-<div align="center">
-<h3 align="center">Full Stack Developer | Crafting Scalable Web Solutions</h3>
-
-
-
-</div>
-
+<h3 align="center">⚡ Scripting Specialist | Automation Engineer | Full-Stack Developer</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OussamaNyqech&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/OussamaNyqech?style=for-the-badge&logo=github&color=0e75b6&label=FOLLOWERS" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/OussamaNyqech?style=for-the-badge&logo=github&color=0e75b6&label=STARS" alt="GitHub Stars"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=OUSSAMA%20NYQECH&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=32" />
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
----
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=✨%20About%20Me%20✨&fontSize=60&fontAlignY=40&animation=fadeIn" width="100%"/>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Scripting+Specialist+⚡;Automation+Engineer+🤖;Full-Stack+Developer+💻;Problem+Solver+🧩)](https://git.io/typing-svg)
+  
+</div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+</div>
 
-
-
-I'm a passionate **Full Stack Developer** with a keen eye for design and a love for building efficient, user-friendly web applications. With expertise spanning both frontend and backend technologies, I enjoy turning complex problems into simple, elegant solutions.
-
-- 🔭 Currently exploring **advanced backend architectures** and **cloud deployment**
-- 🌱 Always learning: diving deeper into **Next.js**, **TypeScript**, and **Python**
-- 💬 Ask me about **Full Stack Development**, **UI/UX Design**, or **Open Source**
-- 🎨 Creative side: **Photoshop** enthusiast and design lover
-- ⚡ Fun fact: I debug with music and believe clean code is an art form
+<p align="center">
+  <em>Building automation solutions and scalable applications with clean, efficient code</em>
+  <img src="https://komarev.com/ghpvc/?username=OussamaNyqech&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/OussamaNyqech?label=FOLLOWERS&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/badge/FOCUS-Automation%20%26%20Scripting-red?style=for-the-badge" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 About Me
 
-#### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+```yaml
+name: Oussama Nyqech
+role: Scripting Specialist & Automation Engineer
+location: 🌍
+code: [Python, JavaScript, TypeScript, PHP, Bash]
+focus:
+  - ⚡ Automation Scripts & Bots
+  - 🔧 DevOps Automation
+  - 🌐 Full-Stack Web Development
+  - 🎨 UI/UX Design
+  - 📊 Data Processing Scripts
 
-#### Design & Tools
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OussamaNyqech&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaNyqech&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaNyqech&theme=radical" alt="GitHub Streak"/>
-</div>
-
----
-
-### 📫 Let's Connect
-
-<div align="center">
-  <a href="https://github.com/OussamaNyqech">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/oussama-nyqech">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:oussama.nyqech@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="8%" alt="Coding Mode"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="8%" alt="It Works!"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="8%" alt="Magic"/>
-  <br/>
-  <i>Code. Design. Deploy. Repeat.</i>
-</div>
+current_mission: "Automating the world, one script at a time"
+hobbies: ["☕ Coffee", "🎨 Design", "📚 Learning", "💻 Coding"]
+fun_fact: "I write scripts that write scripts 🤯"
