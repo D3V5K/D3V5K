@@ -5,9 +5,6 @@
 </div>
 
 <!-- CAPSULE RENDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20World!&animation=twinkling&type=waving&color=gradient&customColorList=6,11,20,26&height=200&fontSize=50&fontColor=fff&fontAlignY=40" />
-</p>
 
 <!-- رأس احترافي -->
 <div align="center">
